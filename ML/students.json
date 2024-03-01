@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "Name": "Mohit",
+      "Roll": "21131a05a4"
+    },
+    {
+      "Name": "Mahith",
+      "Roll": "21131a0581"
+    },
+    {
+      "Name": "Gowtham",
+      "Roll": "21131a05d2"
+    },
+    {
+      "Name": "Lokesh",
+      "Roll": "21131a0587"
+    }
+  ]
+}

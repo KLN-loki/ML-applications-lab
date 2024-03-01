@@ -1,0 +1,5 @@
+Python has a crucial role in machine learning because Python provides libraries like NumPy, 
+Pandas, Scikit-learn, TensorFlow, and Keras. These libraries offer tools and functions essential 
+for data manipulation, analysis, and building machine learning models. It is well-known for its 
+readability and offers platform independence. These all things make it the perfect language of 
+choice for Machine Learning.
